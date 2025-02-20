@@ -1,0 +1,8 @@
+cmake 
+dlib
+
+cvzone
+flask
+
+flask_cors
+
